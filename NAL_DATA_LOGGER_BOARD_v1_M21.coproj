@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project version="2G - 1.7.2" name="FreeRTOS_SDIO_LOG">
+  <Target name="FreeRTOS_SDIO_LOG" isCurrent="1">
+    <Device manufacturerId="9" manufacturerName="ST" chipId="345" chipName="STM32F407ZG" boardId="" boardName=""/>
+    <BuildOption>
+      <Compile>
+        <Option name="OptimizationLevel" value="0"/>
+        <Option name="UseFPU" value="0"/>
+        <Option name="UserEditCompiler" value="-std=c99; -nostdlib"/>
+        <Option name="FPU" value="1"/>
+        <Option name="CompileBeforeDebug" value="0"/>
+        <Includepaths>
+          <Includepath path="."/>
+        </Includepaths>
+        <DefinedSymbols>
+          <Define name="USE_STDPERIPH_DRIVER"/>
+          <Define name="__ASSEMBLY__"/>
+          <Define name="STM32F407ZG"/>
+          <Define name="STM32F4XX"/>
+          <Define name="__FPU_USED"/>
+          <Define name="__FPU_PRESENT"/>
+        </DefinedSymbols>
+      </Compile>
+      <Link useDefault="0">
+        <Option name="DiscardUnusedSection" value="0"/>
+        <Option name="UserEditLinkder" value=""/>
+        <Option name="UseMemoryLayout" value="1"/>
+        <Option name="LTO" value="0"/>
+        <Option name="IsNewStartupCode" value="1"/>
+        <Option name="Library" value="Not use C Library"/>
+        <Option name="UserEditLinker" value=""/>
+        <LinkedLibraries>
+          <Libset dir="" libs="m"/>
+        </LinkedLibraries>
+        <MemoryAreas debugInFlashNotRAM="1">
+          <Memory name="IROM1" type="ReadOnly" size="0x00100000" startValue="0x08000000"/>
+          <Memory name="IRAM1" type="ReadWrite" size="0x00020000" startValue="0x20000000"/>
+          <Memory name="IROM2" type="ReadOnly" size="" startValue=""/>
+          <Memory name="IRAM2" type="ReadWrite" size="0x00010000" startValue="0x10000000"/>
+        </MemoryAreas>
+        <LocateLinkFile path="c:/coocox/coide/configuration/programdata/freertos_sdio_log/arm-gcc-link.ld" type="0"/>
+      </Link>
+      <Output>
+        <Option name="OutputFileType" value="0"/>
+        <Option name="Path" value="./"/>
+        <Option name="Name" value="FreeRTOS_SDIO_LOG"/>
+        <Option name="HEX" value="1"/>
+        <Option name="BIN" value="1"/>
+      </Output>
+      <User>
+        <UserRun name="Run#1" type="Before" checked="0" value=""/>
+        <UserRun name="Run#1" type="After" checked="0" value=""/>
+      </User>
+    </BuildOption>
+    <DebugOption>
+      <Option name="org.coocox.codebugger.gdbjtag.core.adapter" value="ST-Link"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.debugMode" value="SWD"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.clockDiv" value="1M"/>
+      <Option name="org.coocox.codebugger.gdbjtag.corerunToMain" value="1"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.jlinkgdbserver" value=""/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.userDefineGDBScript" value=""/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.targetEndianess" value="0"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.jlinkResetMode" value="Type 0: Normal"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.resetMode" value="SYSRESETREQ"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.ifSemihost" value="0"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.ifCacheRom" value="1"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.ipAddress" value="127.0.0.1"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.portNumber" value="2009"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.autoDownload" value="0"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.verify" value="1"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.downloadFuction" value="Erase Effected"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.defaultAlgorithm" value="./stm32f4xx_1024.elf"/>
+      <Option name="org.coocox.codebugger.gdbjtag.coredebugInRamInitCommands" value="cd C:/CooCox/CoIDE/workspace/NAL_DATA_LOGGER_v1/FreeRTOS_SDIO_LOG/Debug/bin restore FreeRTOS_SDIO_LOG.elf set {unsigned int*}0xE000ED08 = 0x20000000 set $sp = {unsigned int*}0x20000000 set $pc = {unsigned int*}0x20000004 "/>
+    </DebugOption>
+    <ExcludeFile/>
+  </Target>
+  <Components path="./">
+    <Component id="30" name="C Library" path="" type="2"/>
+    <Component id="54" name="M4 CMSIS Core" path="" type="2"/>
+    <Component id="500" name="CMSIS BOOT" path="" type="2"/>
+    <Component id="501" name="RCC" path="" type="2"/>
+    <Component id="504" name="GPIO" path="" type="2"/>
+    <Component id="507" name="IWDG" path="" type="2"/>
+    <Component id="510" name="I2C" path="" type="2"/>
+    <Component id="512" name="FLASH" path="" type="2"/>
+    <Component id="513" name="TIM" path="" type="2"/>
+    <Component id="514" name="ADC" path="" type="2"/>
+    <Component id="517" name="USART" path="" type="2"/>
+    <Component id="525" name="DBGMCU" path="" type="2"/>
+  </Components>
+  <Files>
+    <File name="cmsis_lib/include/stm32f4xx_flash.h" path="cmsis_lib/include/stm32f4xx_flash.h" type="1"/>
+    <File name="cmsis_lib/include/queue.h" path="cmsis_lib/include/queue.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_usart.c" path="cmsis_lib/source/stm32f4xx_usart.c" type="1"/>
+    <File name="cmsis_lib/source/usbd_msc_data.c" path="cmsis_lib/source/usbd_msc_data.c" type="1"/>
+    <File name="cmsis_lib/include/usb_defines.h" path="cmsis_lib/include/usb_defines.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_dac.h" path="cmsis_lib/include/stm32f4xx_dac.h" type="1"/>
+    <File name="cmsis_lib/include/RC.h" path="RC.h" type="1"/>
+    <File name="cmsis_lib/source/usb_core.c" path="cmsis_lib/source/usb_core.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_usart.h" path="cmsis_lib/include/stm32f4xx_usart.h" type="1"/>
+    <File name="cmsis/core_cm4_simd.h" path="cmsis/core_cm4_simd.h" type="1"/>
+    <File name="cmsis_lib/include/HMC5883L.h" path="HMC5883L.h" type="1"/>
+    <File name="cmsis_boot/stm32f4xx.h" path="cmsis_boot/stm32f4xx.h" type="1"/>
+    <File name="cmsis/core_cmFunc.h" path="cmsis/core_cmFunc.h" type="1"/>
+    <File name="cmsis_lib/include/usb_conf.h" path="cmsis_lib/include/usb_conf.h" type="1"/>
+    <File name="cmsis_lib/source/flash.c" path="flash.c" type="1"/>
+    <File name="cmsis_lib/source/loops.c" path="loops.c" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_iwdg.c" path="cmsis_lib/source/stm32f4xx_iwdg.c" type="1"/>
+    <File name="cmsis_lib/include/checksum.h" path="checksum.h" type="1"/>
+    <File name="syscalls/syscalls.c" path="syscalls/syscalls.c" type="1"/>
+    <File name="cmsis_lib/include/MS5611.h" path="MS5611.h" type="1"/>
+    <File name="cmsis_lib/source/vector.c" path="vector.c" type="1"/>
+    <File name="cmsis_lib/include/usbd_req.h" path="cmsis_lib/include/usbd_req.h" type="1"/>
+    <File name="cmsis_lib/include/flash.h" path="flash.h" type="1"/>
+    <File name="cmsis_lib/source/port.c" path="cmsis_lib/source/port.c" type="1"/>
+    <File name="cmsis_lib/source/usbd_storage_msd.c" path="cmsis_lib/source/usbd_storage_msd.c" type="1"/>
+    <File name="cmsis_lib/source/MPU6050.c" path="MPU6050.c" type="1"/>
+    <File name="cmsis_lib/include/portable.h" path="cmsis_lib/include/portable.h" type="1"/>
+    <File name="cmsis_lib/include/RPM.h" path="RPM.h" type="1"/>
+    <File name="cmsis_lib/source/usbd_msc_bot.c" path="cmsis_lib/source/usbd_msc_bot.c" type="1"/>
+    <File name="cmsis_lib/include/list.h" path="cmsis_lib/include/list.h" type="1"/>
+    <File name="cmsis_lib/include/semphr.h" path="cmsis_lib/include/semphr.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_msc_core.h" path="cmsis_lib/include/usbd_msc_core.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_rcc.h" path="cmsis_lib/include/stm32f4xx_rcc.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_conf.h" path="cmsis_lib/include/stm32f4xx_conf.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_syscfg.c" path="cmsis_lib/source/stm32f4xx_syscfg.c" type="1"/>
+    <File name="cmsis_lib/source/MS5611.c" path="MS5611.c" type="1"/>
+    <File name="cmsis_lib/include/usb_dcd.h" path="cmsis_lib/include/usb_dcd.h" type="1"/>
+    <File name="cmsis_boot/startup/startup_stm32f4xx.c" path="cmsis_boot/startup/startup_stm32f4xx.c" type="1"/>
+    <File name="cmsis_lib/include/ADC.h" path="ADC.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_rcc.c" path="cmsis_lib/source/stm32f4xx_rcc.c" type="1"/>
+    <File name="cmsis_lib/source/debug.c" path="debug.c" type="1"/>
+    <File name="cmsis_lib/include/FreeRTOS.h" path="cmsis_lib/include/FreeRTOS.h" type="1"/>
+    <File name="cmsis_lib/include/mavlink_helpers.h" path="mavlink_helpers.h" type="1"/>
+    <File name="cmsis/core_cmInstr.h" path="cmsis/core_cmInstr.h" type="1"/>
+    <File name="cmsis_lib/include/modem.h" path="modem.h" type="1"/>
+    <File name="cmsis_lib/source/usbd_desc.c" path="cmsis_lib/source/usbd_desc.c" type="1"/>
+    <File name="common" path="" type="2"/>
+    <File name="cmsis_lib/source/usbd_req.c" path="cmsis_lib/source/usbd_req.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_adc.h" path="cmsis_lib/include/stm32f4xx_adc.h" type="1"/>
+    <File name="cmsis_boot/system_stm32f4xx.c" path="cmsis_boot/system_stm32f4xx.c" type="1"/>
+    <File name="cmsis_lib/source/usbd_core.c" path="cmsis_lib/source/usbd_core.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_spi.h" path="cmsis_lib/include/stm32f4xx_spi.h" type="1"/>
+    <File name="cmsis_lib/source/delay.c" path="delay.c" type="1"/>
+    <File name="cmsis_lib/include/delay.h" path="delay.h" type="1"/>
+    <File name="cmsis_lib/include/arduimu.h" path="arduimu.h" type="1"/>
+    <File name="cmsis_lib/include/usb_bsp.h" path="cmsis_lib/include/usb_bsp.h" type="1"/>
+    <File name="cmsis_lib/include/log.h" path="log.h" type="1"/>
+    <File name="cmsis_lib/source/usbd_ioreq.c" path="cmsis_lib/source/usbd_ioreq.c" type="1"/>
+    <File name="cmsis_lib/include/usb_dcd_int.h" path="cmsis_lib/include/usb_dcd_int.h" type="1"/>
+    <File name="cmsis" path="" type="2"/>
+    <File name="cmsis_lib/source/arduimu.c" path="arduimu.c" type="1"/>
+    <File name="cmsis_lib" path="" type="2"/>
+    <File name="cmsis_lib/source/gps.c" path="gps.c" type="1"/>
+    <File name="cmsis_lib/source/ublox.c" path="ublox.c" type="1"/>
+    <File name="cmsis_lib/source/stm32f4_discovery.c" path="cmsis_lib/source/stm32f4_discovery.c" type="1"/>
+    <File name="cmsis_lib/include/integer.h" path="cmsis_lib/include/integer.h" type="1"/>
+    <File name="cmsis_lib/include/misc.h" path="cmsis_lib/include/misc.h" type="1"/>
+    <File name="cmsis_lib/source/packets.c" path="packets.c" type="1"/>
+    <File name="cmsis_lib/include/MPU6050.h" path="MPU6050.h" type="1"/>
+    <File name="cmsis_lib/include/air_speed.h" path="air_speed.h" type="1"/>
+    <File name="cmsis_lib/source/croutine.c" path="cmsis_lib/source/croutine.c" type="1"/>
+    <File name="cmsis_lib/include/debug.h" path="debug.h" type="1"/>
+    <File name="cmsis_lib/source/tasks.c" path="cmsis_lib/source/tasks.c" type="1"/>
+    <File name="cmsis_lib/source/RC.c" path="RC.c" type="1"/>
+    <File name="main.c" path="main.c" type="1"/>
+    <File name="cmsis_lib/include/usb_regs.h" path="cmsis_lib/include/usb_regs.h" type="1"/>
+    <File name="cmsis_lib/source/PWM_output.c" path="PWM_output.c" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_gpio.c" path="cmsis_lib/source/stm32f4xx_gpio.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_i2c.h" path="cmsis_lib/include/stm32f4xx_i2c.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_dma.c" path="cmsis_lib/source/stm32f4xx_dma.c" type="1"/>
+    <File name="cmsis_lib/source/RPM.c" path="RPM.c" type="1"/>
+    <File name="cmsis_lib/include/portmacro.h" path="cmsis_lib/include/portmacro.h" type="1"/>
+    <File name="cmsis_lib/include/usb_core.h" path="cmsis_lib/include/usb_core.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4_discovery_sdio_sd.h" path="cmsis_lib/include/stm32f4_discovery_sdio_sd.h" type="1"/>
+    <File name="cmsis_lib/include/types.h" path="types.h" type="1"/>
+    <File name="cmsis_lib/include/mpu_wrappers.h" path="cmsis_lib/include/mpu_wrappers.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4_discovery.h" path="cmsis_lib/include/stm32f4_discovery.h" type="1"/>
+    <File name="cmsis_boot" path="" type="2"/>
+    <File name="cmsis_lib/source/stm32f4_discovery_sdio_sd.c" path="cmsis_lib/source/stm32f4_discovery_sdio_sd.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_syscfg.h" path="cmsis_lib/include/stm32f4xx_syscfg.h" type="1"/>
+    <File name="common/version.h" path="common/version.h" type="1"/>
+    <File name="cmsis_lib/include/projdefs.h" path="cmsis_lib/include/projdefs.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_msc_data.h" path="cmsis_lib/include/usbd_msc_data.h" type="1"/>
+    <File name="cmsis_lib/include/timers.h" path="cmsis_lib/include/timers.h" type="1"/>
+    <File name="cmsis_lib/include/task.h" path="cmsis_lib/include/task.h" type="1"/>
+    <File name="cmsis_lib/source/matrix.c" path="matrix.c" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_flash.c" path="cmsis_lib/source/stm32f4xx_flash.c" type="1"/>
+    <File name="cmsis_boot/startup" path="" type="2"/>
+    <File name="cmsis_lib/source/queue.c" path="cmsis_lib/source/queue.c" type="1"/>
+    <File name="cmsis_lib/include/packets.h" path="packets.h" type="1"/>
+    <File name="cmsis/core_cm4.h" path="cmsis/core_cm4.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_dbgmcu.h" path="cmsis_lib/include/stm32f4xx_dbgmcu.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_dbgmcu.c" path="cmsis_lib/source/stm32f4xx_dbgmcu.c" type="1"/>
+    <File name="cmsis_lib/include/usbd_ioreq.h" path="cmsis_lib/include/usbd_ioreq.h" type="1"/>
+    <File name="cmsis_lib/source/misc.c" path="cmsis_lib/source/misc.c" type="1"/>
+    <File name="cmsis_lib/include/DCM.h" path="DCM.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_tim.h" path="cmsis_lib/include/stm32f4xx_tim.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_adc.c" path="cmsis_lib/source/stm32f4xx_adc.c" type="1"/>
+    <File name="common/common.h" path="common/common.h" type="1"/>
+    <File name="cmsis_lib/source/modem.c" path="modem.c" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_i2c.c" path="cmsis_lib/source/stm32f4xx_i2c.c" type="1"/>
+    <File name="cmsis_lib/source" path="" type="2"/>
+    <File name="cmsis_lib/include/croutine.h" path="cmsis_lib/include/croutine.h" type="1"/>
+    <File name="cmsis_lib/include/StackMacros.h" path="cmsis_lib/include/StackMacros.h" type="1"/>
+    <File name="cmsis_lib/source/ADC.c" path="ADC.c" type="1"/>
+    <File name="cmsis_lib/source/heap_1.c" path="cmsis_lib/source/heap_1.c" type="1"/>
+    <File name="cmsis_boot/stm32f4xx_conf.h" path="cmsis_boot/stm32f4xx_conf.h" type="1"/>
+    <File name="cmsis_boot/system_stm32f4xx.h" path="cmsis_boot/system_stm32f4xx.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_msc_scsi.h" path="cmsis_lib/include/usbd_msc_scsi.h" type="1"/>
+    <File name="cmsis_lib/source/usbd_msc_scsi.c" path="cmsis_lib/source/usbd_msc_scsi.c" type="1"/>
+    <File name="cmsis_lib/include/power_propulsion.h" path="power_propulsion.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_conf.h" path="cmsis_lib/include/usbd_conf.h" type="1"/>
+    <File name="cmsis_lib/source/power_propulsion.c" path="power_propulsion.c" type="1"/>
+    <File name="cmsis_lib/source/air_speed.c" path="air_speed.c" type="1"/>
+    <File name="cmsis_lib/source/usb_dcd_int.c" path="cmsis_lib/source/usb_dcd_int.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_iwdg.h" path="cmsis_lib/include/stm32f4xx_iwdg.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_it.c" path="cmsis_lib/source/stm32f4xx_it.c" type="1"/>
+    <File name="cmsis_lib/include/FreeRTOSConfig.h" path="cmsis_lib/include/FreeRTOSConfig.h" type="1"/>
+    <File name="common/mavlink.h" path="common/mavlink.h" type="1"/>
+    <File name="cmsis_lib/include/protocol.h" path="protocol.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_sdio.c" path="cmsis_lib/source/stm32f4xx_sdio.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_sdio.h" path="cmsis_lib/include/stm32f4xx_sdio.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_def.h" path="cmsis_lib/include/usbd_def.h" type="1"/>
+    <File name="cmsis_lib/source/externalPackets.c" path="externalPackets.c" type="1"/>
+    <File name="cmsis_lib/include/ffconf.h" path="cmsis_lib/include/ffconf.h" type="1"/>
+    <File name="cmsis_lib/include/diskio.h" path="cmsis_lib/include/diskio.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_msc_mem.h" path="cmsis_lib/include/usbd_msc_mem.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_exti.h" path="cmsis_lib/include/stm32f4xx_exti.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_exti.c" path="cmsis_lib/source/stm32f4xx_exti.c" type="1"/>
+    <File name="cmsis_lib/source/ff.c" path="cmsis_lib/source/ff.c" type="1"/>
+    <File name="cmsis_lib/source/usb_dcd.c" path="cmsis_lib/source/usb_dcd.c" type="1"/>
+    <File name="cmsis_lib/include/usbd_desc.h" path="cmsis_lib/include/usbd_desc.h" type="1"/>
+    <File name="cmsis_lib/include/matrix.h" path="matrix.h" type="1"/>
+    <File name="cmsis_lib/source/usb_bsp.c" path="cmsis_lib/source/usb_bsp.c" type="1"/>
+    <File name="cmsis_lib/source/timers.c" path="cmsis_lib/source/timers.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_it.h" path="cmsis_lib/include/stm32f4xx_it.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_msc_bot.h" path="cmsis_lib/include/usbd_msc_bot.h" type="1"/>
+    <File name="cmsis_lib/include/MAVLINK_STM32.h" path="MAVLINK_STM32.h" type="1"/>
+    <File name="cmsis_lib/source/list.c" path="cmsis_lib/source/list.c" type="1"/>
+    <File name="cmsis_lib/source/usbd_usr.c" path="cmsis_lib/source/usbd_usr.c" type="1"/>
+    <File name="cmsis_lib/include/gps.h" path="gps.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_dma.h" path="cmsis_lib/include/stm32f4xx_dma.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_usr.h" path="cmsis_lib/include/usbd_usr.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_tim.c" path="cmsis_lib/source/stm32f4xx_tim.c" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_gpio.h" path="cmsis_lib/include/stm32f4xx_gpio.h" type="1"/>
+    <File name="cmsis_lib/include/usbd_core.h" path="cmsis_lib/include/usbd_core.h" type="1"/>
+    <File name="cmsis_lib/include/loops.h" path="loops.h" type="1"/>
+    <File name="syscalls" path="" type="2"/>
+    <File name="cmsis_lib/source/DCM.c" path="DCM.c" type="1"/>
+    <File name="cmsis_lib/source/HMC5883L.c" path="HMC5883L.c" type="1"/>
+    <File name="cmsis_lib/source/diskio.c" path="cmsis_lib/source/diskio.c" type="1"/>
+    <File name="cmsis_lib/source/MAVLINK_STM32.c" path="MAVLINK_STM32.c" type="1"/>
+    <File name="cmsis_lib/include/vector.h" path="vector.h" type="1"/>
+    <File name="cmsis_lib/include/externalPackets.h" path="externalPackets.h" type="1"/>
+    <File name="cmsis_lib/source/usbd_msc_core.c" path="cmsis_lib/source/usbd_msc_core.c" type="1"/>
+    <File name="cmsis_lib/source/log.c" path="log.c" type="1"/>
+    <File name="cmsis_lib/include/ublox.h" path="ublox.h" type="1"/>
+    <File name="cmsis_lib/include" path="" type="2"/>
+    <File name="cmsis_lib/include/mavlink_types.h" path="mavlink_types.h" type="1"/>
+    <File name="cmsis_lib/include/ff.h" path="cmsis_lib/include/ff.h" type="1"/>
+    <File name="cmsis_lib/include/PWM_output.h" path="PWM_output.h" type="1"/>
+  </Files>
+</Project>

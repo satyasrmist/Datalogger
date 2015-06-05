@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="log.h" partName="log.h" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/log.h" title="log.h" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/log.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/log.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="237" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="task.h" partName="task.h" path="F:/Work/Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/task.h" title="task.h" tooltip="F:/Work/Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/task.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/task.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="56706" selectionTopPixel="22276"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="protocol.h" partName="protocol.h" path="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/protocol.h" title="protocol.h" tooltip="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/protocol.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/protocol.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="4162"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="portable.h" partName="portable.h" path="F:/Work/Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/portable.h" title="portable.h" tooltip="F:/Work/Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/portable.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/portable.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="common.h" partName="common.h" path="F:/Work/Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/common/common.h" title="common.h" tooltip="F:/Work/Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/common/common.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/common/common.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="148" selectionTopPixel="5839"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="flash.c" partName="flash.c" path="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/flash.c" title="flash.c" tooltip="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/flash.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/flash.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="15" selectionOffset="1287" selectionTopPixel="66"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ff.c" partName="ff.c" path="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/source/ff.c" title="ff.c" tooltip="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/source/ff.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/ff.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="110240" selectionTopPixel="67518"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ff.h" partName="ff.h" path="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/ff.h" title="ff.h" tooltip="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/ff.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/ff.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1328" selectionTopPixel="132"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="packets.h" partName="packets.h" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/packets.h" title="packets.h" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/packets.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/packets.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="1685" selectionTopPixel="1096"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="packets.c" partName="packets.c" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/packets.c" title="packets.c" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/packets.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/packets.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="22" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_defines.h" partName="usb_defines.h" path="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/usb_defines.h" title="usb_defines.h" tooltip="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/usb_defines.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usb_defines.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="3432"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_regs.h" partName="usb_regs.h" path="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/usb_regs.h" title="usb_regs.h" tooltip="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/usb_regs.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usb_regs.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="924"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usbd_def.h" partName="usbd_def.h" path="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/usbd_def.h" title="usbd_def.h" tooltip="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/usbd_def.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usbd_def.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1122"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="externalPackets.c" partName="externalPackets.c" path="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/externalPackets.c" title="externalPackets.c" tooltip="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/externalPackets.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/externalPackets.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="28" selectionOffset="430" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="croutine.h" partName="croutine.h" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/croutine.h" title="croutine.h" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/croutine.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/croutine.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="externalPackets.h" partName="externalPackets.h" path="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/externalPackets.h" title="externalPackets.h" tooltip="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/externalPackets.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/externalPackets.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="1402" selectionTopPixel="240"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.c" partName="stm32f4xx_adc.c" path="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/source/stm32f4xx_adc.c" title="stm32f4xx_adc.c" tooltip="F:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/source/stm32f4xx_adc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/stm32f4xx_adc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="13479" selectionTopPixel="6930"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="vector.c" partName="vector.c" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/vector.c" title="vector.c" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/vector.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/vector.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="147" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="heap_1.c" partName="heap_1.c" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/source/heap_1.c" title="heap_1.c" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/source/heap_1.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/heap_1.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1755"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_usart.c" partName="stm32f4xx_usart.c" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/cmsis_lib/source/stm32f4xx_usart.c" title="stm32f4xx_usart.c" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/cmsis_lib/source/stm32f4xx_usart.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/stm32f4xx_usart.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="14053" selectionTopPixel="4845"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="gps.c" partName="gps.c" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/gps.c" title="gps.c" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/gps.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/gps.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2268" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_rcc.c" partName="stm32f4xx_rcc.c" path="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/cmsis_lib/source/stm32f4xx_rcc.c" title="stm32f4xx_rcc.c" tooltip="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/cmsis_lib/source/stm32f4xx_rcc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/stm32f4xx_rcc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="22" selectionOffset="51260" selectionTopPixel="15300"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="debug.c" partName="debug.c" path="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/debug.c" title="debug.c" tooltip="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/debug.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/debug.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1675" selectionTopPixel="841"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="arduimu.c" partName="arduimu.c" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/arduimu.c" title="arduimu.c" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M21/NAL_DATA_LOGGER_BOARD_v1_M21/arduimu.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/arduimu.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="2401"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usbd_msc_core.h" partName="usbd_msc_core.h" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/usbd_msc_core.h" title="usbd_msc_core.h" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/include/usbd_msc_core.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usbd_msc_core.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="646"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usbd_msc_core.c" partName="usbd_msc_core.c" path="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/source/usbd_msc_core.c" title="usbd_msc_core.c" tooltip="D:/Satya_Workspace/Work/Code/Practice_Code/NAL_DATA_LOGGER_BOARD_v1_M20/NAL_DATA_LOGGER_BOARD_v1_M20/cmsis_lib/source/usbd_msc_core.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/usbd_msc_core.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="2835"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="log.c" partName="log.c" path="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/log.c" title="log.c" tooltip="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/log.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/log.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="228" selectionOffset="5112" selectionTopPixel="2240"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/main.c" title="main.c" tooltip="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4007" selectionTopPixel="2248"/>
+</editor>
+<editor id="org.coocox.builder.ui.editors.ConfigEditor" name="" partName="Configuration" title="Configuration" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="4" verticalPosition="0"/>
+</input>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stdio.h" partName="stdio.h" title="stdio.h" tooltip="c:\program files (x86)\gnu tools arm embedded\4.9 2014q4\arm-none-eabi\include\stdio.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/c:/program%20files%20(x86)/gnu%20tools%20arm%20embedded/4.9%202014q4/arm-none-eabi/include/stdio.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="23" selectionOffset="1201" selectionTopPixel="900"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="usb_conf.h" partName="usb_conf.h" path="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/cmsis_lib/include/usb_conf.h" title="usb_conf.h" tooltip="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/cmsis_lib/include/usb_conf.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usb_conf.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="9972" selectionTopPixel="5020"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="matrix.c" partName="matrix.c" path="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/matrix.c" title="matrix.c" tooltip="C:/Users/Satyabrata/Desktop/DL_CODES_PCBs_11_03_2014/DL_CODES/NAL_DATA_LOGGER_BOARD_v1_M21/matrix.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/matrix.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="135">
+<expanded>
+<element path="/FreeRTOS_SDIO_LOG"/>
+<element path="/FreeRTOS_SDIO_LOG/cmsis_boot"/>
+<element path="/FreeRTOS_SDIO_LOG/cmsis_lib"/>
+<element path="/FreeRTOS_SDIO_LOG/cmsis_lib/include"/>
+<element path="/FreeRTOS_SDIO_LOG/cmsis_lib/source"/>
+<element path="/FreeRTOS_SDIO_LOG/syscalls"/>
+</expanded>
+<selection>
+<element path="/FreeRTOS_SDIO_LOG/main.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+<view IMemento.internal.id="org.eclipse.cdt.ui.pdomSearchViewPage" definitionColumnWidth="150" locationColumnWidth="300" matchColumnWidth="300" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" showEnclosingDefinitions="true"/>
+</viewState>
+</view>
+<view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@16a6512" orientation="512" selectedTabId="org.eclipse.search.ui.views.SearchView" style="0">
+<fastViews>
+<view id="org.coocox.component.ui.Help" ratio="0.29904154"/>
+<view id="org.eclipse.search.ui.views.SearchView" ratio="0.29904154"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@c858bf" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="1">
+<fastViews>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@a6cf28" orientation="512" selectedTabId="org.coocox.builder.ui.views.ProjectView" style="1">
+<fastViews>
+<view id="org.coocox.builder.ui.views.ProjectView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@175d3d7">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="org.eclipse.ui.internal.ViewStack@175d3d7">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@c858bf" ratio="0.75422627" ratioLeft="580" ratioRight="189" relationship="4" relative="org.eclipse.ui.internal.ViewStack@175d3d7">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.24647887" ratioLeft="385" ratioRight="1177" relationship="2" relative="org.eclipse.ui.internal.ViewStack@175d3d7"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@16a6512" ratio="0.5854962" ratioLeft="767" ratioRight="543" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44948187" ratioLeft="347" ratioRight="425" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@a6cf28" ratio="0.369171" ratioLeft="285" ratioRight="487" relationship="4" relative="org.eclipse.ui.internal.ViewStack@175d3d7">
+<folder appearance="2" expanded="0">
+<page content="org.coocox.builder.ui.views.ProjectView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.codebugger.configuration.ui.Perspective" id="org.coocox.codebugger.configuration.perspective" label="CoDebugger"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFolder"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_menu_item_id id="org.eclipse.ui.file.save"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAll"/>
+<hide_menu_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openFile"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAs"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.projectMenu"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.flashMenu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.debug"/>
+<hide_menu_item_id id="org.coocox.builder.ui.showHelpViewAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_menu_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.build"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_menu_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.TargetManageAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newProject"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.eclipse.ui.file.save"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideFlashEraseAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.debug"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.coocox.codebugger.trace.ui.traceview"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@d8d3da">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="org.eclipse.ui.internal.ViewStack@d8d3da">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1a2fc35" ratio="0.6475943" ratioLeft="498" ratioRight="271" relationship="4" relative="org.eclipse.ui.internal.ViewStack@d8d3da">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@15c34d5" ratio="0.5" ratioLeft="796" ratioRight="796" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1a2fc35">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@90a751" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="org.eclipse.ui.internal.ViewStack@d8d3da">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.17872876" ratioLeft="284" ratioRight="1305" relationship="2" relative="org.eclipse.ui.internal.ViewStack@d8d3da"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/externalPackets.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/log.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/gps.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/packets.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/packets.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/log.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/externalPackets.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/externalPackets.c"/>
+<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="1" verticalPosition="0"/>
+</editor>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/C:/Users/SATYAB~1/AppData/Local/Temp/cckBj0eO.s"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/externalPackets.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/externalPackets.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/log.c"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/c:/program%20files%20(x86)/gnu%20tools%20arm%20embedded/4.9%202014q4/arm-none-eabi/include/stdio.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usb_conf.h"/>
+<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
+<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="4" verticalPosition="0"/>
+</editor>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/log.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/matrix.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/debug.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/stm32f4xx_rcc.c"/>
+</editors>
+<item historyLabel="packets.h" index="5">
+<position info="not_deleted" x="464" y="20"/>
+</item>
+<item historyLabel="packets.h" index="5">
+<position info="not_deleted" x="1685" y="20"/>
+</item>
+<item historyLabel="packets.c" index="4">
+<position info="not_deleted" x="24" y="20"/>
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="2365" y="0"/>
+</item>
+<item historyLabel="packets.c" index="4">
+<position info="not_deleted" x="22" y="0"/>
+</item>
+<item historyLabel="externalPackets.c" index="0">
+<position info="not_deleted" x="6447" y="0"/>
+</item>
+<item historyLabel="packets.c" index="4">
+<position info="not_deleted" x="22" y="0"/>
+</item>
+<item historyLabel="log.c" index="2">
+<position info="not_deleted" x="3817" y="0"/>
+</item>
+<item historyLabel="packets.c" index="4">
+<position info="not_deleted" x="22" y="0"/>
+</item>
+<item historyLabel="gps.c" index="3">
+<position info="not_deleted" x="2268" y="0"/>
+</item>
+<item historyLabel="log.c" index="2">
+<position info="not_deleted" x="3817" y="0"/>
+</item>
+<item historyLabel="log.h" index="6">
+<position info="not_deleted" x="237" y="0"/>
+</item>
+<item historyLabel="log.c" index="2">
+<position info="not_deleted" x="3817" y="0"/>
+</item>
+<item historyLabel="externalPackets.h" index="7">
+<position info="not_deleted" x="1444" y="0"/>
+</item>
+<item historyLabel="main.c" index="8">
+<position info="not_deleted" x="10205" y="0"/>
+</item>
+<item historyLabel="externalPackets.h" index="7">
+<position info="not_deleted" x="1444" y="0"/>
+</item>
+<item historyLabel="externalPackets.c" index="9">
+<position info="not_deleted" x="6447" y="0"/>
+</item>
+<item historyLabel="externalPackets.c" index="9">
+<position info="not_deleted" x="732" y="27"/>
+</item>
+<item historyLabel="externalPackets.c" index="9">
+<position info="not_deleted" x="2079" y="0"/>
+</item>
+<item historyLabel="externalPackets.h" index="7">
+<position info="not_deleted" x="1267" y="0"/>
+</item>
+<item historyLabel="main.c" index="8">
+<position info="not_deleted" x="10205" y="0"/>
+</item>
+<item historyLabel="Configuration" index="10"/>
+<item historyLabel="cckBj0eO.s" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Configuration" index="10"/>
+<item historyLabel="externalPackets.c" index="12">
+<position info="not_deleted" x="2079" y="0"/>
+</item>
+<item historyLabel="externalPackets.c" index="12">
+<position info="not_deleted" x="732" y="27"/>
+</item>
+<item historyLabel="externalPackets.c" index="12">
+<position info="not_deleted" x="701" y="31"/>
+</item>
+<item historyLabel="externalPackets.h" index="13">
+<position info="not_deleted" x="1267" y="0"/>
+</item>
+<item historyLabel="externalPackets.h" index="13">
+<position info="not_deleted" x="1402" y="11"/>
+</item>
+<item historyLabel="externalPackets.c" index="12">
+<position info="not_deleted" x="715" y="11"/>
+</item>
+<item historyLabel="externalPackets.h" index="13">
+<position info="not_deleted" x="1402" y="11"/>
+</item>
+<item historyLabel="externalPackets.c" index="12">
+<position info="not_deleted" x="715" y="11"/>
+</item>
+<item historyLabel="externalPackets.c" index="12">
+<position info="not_deleted" x="618" y="27"/>
+</item>
+<item historyLabel="externalPackets.c" index="12">
+<position info="not_deleted" x="430" y="28"/>
+</item>
+<item historyLabel="log.c" index="14">
+<position info="not_deleted" x="4362" y="0"/>
+</item>
+<item historyLabel="log.c" index="14">
+<position info="not_deleted" x="5112" y="228"/>
+</item>
+<item historyLabel="stdio.h" index="15">
+<position info="not_deleted" x="1537" y="0"/>
+</item>
+<item historyLabel="usb_conf.h" index="16">
+<position info="not_deleted" x="9972" y="0"/>
+</item>
+<item historyLabel="stdio.h" index="15">
+<position info="not_deleted" x="1201" y="23"/>
+</item>
+<item historyLabel="Configuration" index="17"/>
+<item historyLabel="main.c" index="18">
+<position info="not_deleted" x="18" y="0"/>
+</item>
+<item historyLabel="log.c" index="19">
+<position info="not_deleted" x="5112" y="228"/>
+</item>
+<item historyLabel="main.c" index="18">
+<position info="not_deleted" x="6217" y="0"/>
+</item>
+<item historyLabel="Configuration" index="17"/>
+<item historyLabel="log.c" index="19">
+<position info="not_deleted" x="5112" y="228"/>
+</item>
+<item historyLabel="matrix.c" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="18">
+<position info="not_deleted" x="6217" y="0"/>
+</item>
+<item historyLabel="debug.c" index="21">
+<position info="not_deleted" x="1675" y="0"/>
+</item>
+<item historyLabel="stm32f4xx_rcc.c" index="22">
+<position info="not_deleted" x="51260" y="22"/>
+</item>
+<item active="true" historyLabel="main.c" index="18">
+<position info="not_deleted" x="18" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="matrix.c" tooltip="FreeRTOS_SDIO_LOG/cmsis_lib/source/matrix.c">
+<persistable path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/matrix.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="cdefs.h" tooltip="c:\program files (x86)\gnu tools arm embedded\4.9 2014q4\arm-none-eabi\include\sys\cdefs.h">
+<persistable uri="file:/c:/program%20files%20(x86)/gnu%20tools%20arm%20embedded/4.9%202014q4/arm-none-eabi/include/sys/cdefs.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_conf.h" tooltip="FreeRTOS_SDIO_LOG/cmsis_lib/include/usb_conf.h">
+<persistable path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usb_conf.h"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdio.h" tooltip="c:\program files (x86)\gnu tools arm embedded\4.9 2014q4\arm-none-eabi\include\stdio.h">
+<persistable uri="file:/c:/program%20files%20(x86)/gnu%20tools%20arm%20embedded/4.9%202014q4/arm-none-eabi/include/stdio.h"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="cckBj0eO.s" tooltip="C:\Users\SATYAB~1\AppData\Local\Temp\cckBj0eO.s">
+<persistable uri="file:/C:/Users/SATYAB~1/AppData/Local/Temp/cckBj0eO.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usbd_conf.h" tooltip="FreeRTOS_SDIO_LOG/cmsis_lib/include/usbd_conf.h">
+<persistable path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usbd_conf.h"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ccMyf69p.s" tooltip="C:\Users\SATYAB~1\AppData\Local\Temp\ccMyf69p.s">
+<persistable uri="file:/C:/Users/SATYAB~1/AppData/Local/Temp/ccMyf69p.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="FreeRTOS_SDIO_LOG/main.c">
+<persistable path="/FreeRTOS_SDIO_LOG/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ccArOTeY.s" tooltip="C:\Users\SATYAB~1\AppData\Local\Temp\ccArOTeY.s">
+<persistable uri="file:/C:/Users/SATYAB~1/AppData/Local/Temp/ccArOTeY.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="modem.c" tooltip="FreeRTOS_SDIO_LOG/cmsis_lib/source/modem.c">
+<persistable path="/FreeRTOS_SDIO_LOG/cmsis_lib/source/modem.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="protocol.h" tooltip="FreeRTOS_SDIO_LOG/cmsis_lib/include/protocol.h">
+<persistable path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/protocol.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="PWM_output.h" tooltip="FreeRTOS_SDIO_LOG/cmsis_lib/include/PWM_output.h">
+<persistable path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/PWM_output.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="usb_conf.h" tooltip="FreeRTOS_SDIO_LOG/cmsis_lib/include/usb_conf.h">
+<persistable path="/FreeRTOS_SDIO_LOG/cmsis_lib/include/usb_conf.h"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdio.h" tooltip="c:\program files (x86)\gnu tools arm embedded\4.9 2014q4\arm-none-eabi\include\stdio.h">
+<persistable uri="file:/c:/program%20files%20(x86)/gnu%20tools%20arm%20embedded/4.9%202014q4/arm-none-eabi/include/stdio.h"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="cckBj0eO.s" tooltip="C:\Users\SATYAB~1\AppData\Local\Temp\cckBj0eO.s">
+<persistable uri="file:/C:/Users/SATYAB~1/AppData/Local/Temp/cckBj0eO.s"/>
+</file>
+</mruList>
+</workbench>

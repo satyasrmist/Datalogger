@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<History> 
+  <File usedCount="2" path="cmsis_lib/include/stm32f4xx_i2c.h"/>  
+  <File usedCount="2" path="cmsis_lib/include/stm32f4xx_flash.h"/>  
+  <File usedCount="2" path="cmsis_lib/include/stm32f4xx_iwdg.h"/>  
+  <File usedCount="2" path="cmsis_lib/include/stm32f4xx_dbgmcu.h"/>  
+  <File usedCount="2" path="cmsis_lib/include/stm32f4xx_usart.h"/>  
+  <File usedCount="2" path="cmsis_lib/source/stm32f4xx_usart.c"/>  
+  <File usedCount="2" path="cmsis_lib/include/stm32f4xx_rcc.h"/>  
+  <File usedCount="2" path="cmsis_lib/source/stm32f4xx_rcc.c"/>
+</History>
